@@ -11,6 +11,10 @@ The full code will be made publicly available upon acceptance.
 |  DTU  | <a href="https://github.com/ZYangChen/FDN-MVS/releases/download/checkpoints/DTU.ckpt">44MB</a>  | 1 * NIVIDA Telsa A6000  |
 |  Tanks & Temples  | <a href="https://github.com/ZYangChen/FDN-MVS/releases/download/checkpoints/TanksTemples.ckpt">44MB</a>  | 1 * NIVIDA Telsa A6000  |
 
+## Environment Preparation
+PyTorch 2.0.0
+CUDA 11.8
+
 ## Data Preparation
 
 * Download pre-processed datasets (provided by PatchmatchNet): [DTU's evaluation set](https://drive.google.com/file/d/1jN8yEQX0a-S22XwUjISM8xSJD39pFLL_/view?usp=sharing), [Tanks & Temples](https://drive.google.com/file/d/1gAfmeoGNEFl9dL4QcAU4kF0BAyTd-r8Z/view?usp=sharing)
