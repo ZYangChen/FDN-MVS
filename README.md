@@ -12,7 +12,10 @@ The full code will be made publicly available upon acceptance.
 |  Tanks & Temples  | <a href="https://github.com/ZYangChen/FDN-MVS/releases/download/checkpoints/TanksTemples.ckpt">44MB</a>  | 1 * NIVIDA Telsa A6000  |
 
 ## Environment Preparation
+Python 3.8
+
 PyTorch 2.0.0
+
 CUDA 11.8
 
 ## Data Preparation
