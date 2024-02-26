@@ -3,7 +3,6 @@ The official implementation of "Feature Distribution Normalization Network for M
 <div align="center">
   <img width="1600", src="./dtu.jpg">
 </div>
-The full code will be made publicly available upon acceptance.
 
 ## Model Zoo
 |  Dataset   | Weight  |  Condition  |
