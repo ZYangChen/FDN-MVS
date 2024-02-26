@@ -2,9 +2,7 @@
 The official implementation of "Feature Distribution Normalization Network for Multi-View Stereo".
 
 > Feature Distribution Normalization Network for Multi-View Stereo
-> 
-> [Ziyang Chen](https://github.com/ZYangChen/FDN-MVS), Wenting Li, Yang Zhao, Junling He, Zhongwei Cui, Yongjun Zhang*
-> 
+> [Ziyang Chen](https://orcid.org/0000-0002-9361-0240), Wenting Li, Yang Zhao, Junling He, Zhongwei Cui, Yongjun Zhang* 
 > Visual Computer 2024
 
 <div align="center">
