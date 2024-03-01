@@ -6,7 +6,7 @@ The official implementation of "Feature Distribution Normalization Network for M
 > Visual Computer 2024 <br>
 > Correspondence: ziyangchen2000@gmail.com; zyj6667@126.com✱
 
-```
+```bibtex
 @article{fdn,
   title={Feature Distribution Normalization Network for Multi-View Stereo},
   author={Chen, Ziyang and Li, Wenting and Zhao, Yang and He, Junling and Lu, Yujie and Cui, Zhongwei and Zhang, Yongjun},
