@@ -8,10 +8,11 @@ The official implementation of "Feature Distribution Normalization Network for M
 > <a href="https://link.springer.com/article/10.1007/s00371-024-03334-1" target='_blank'><img src="https://img.shields.io/badge/Paper-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red"/></a>&nbsp;	
 
 ```bibtex
-@article{fdn,
-  title={Feature Distribution Normalization Network for Multi-View Stereo},
+@article{chen2024feature,
+  title={Feature distribution normalization network for multi-view stereo},
   author={Chen, Ziyang and Zhao, Yang and He, Junling and Lu, Yujie and Cui, Zhongwei and Li, Wenting and Zhang, Yongjun},
   journal={The Visual Computer},
+  pages={1--13},
   year={2024},
   publisher={Springer}
 }
