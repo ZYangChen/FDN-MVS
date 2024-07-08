@@ -19,7 +19,7 @@ The official implementation of "Feature Distribution Normalization Network for M
 ```
 
 <div align="center">
-  <img width="1600", src="./dtu.jpg">
+  <img width="100%", src="./dtu.jpg">
 </div>
 
 ## Model Zoo
