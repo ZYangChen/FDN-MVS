@@ -4,7 +4,7 @@ The official implementation of "Feature Distribution Normalization Network for M
 > Feature Distribution Normalization Network for Multi-View Stereo <br>
 > [Ziyang Chen](https://zyangchen.github.io/), [Yang Zhao](https://orcid.org/0009-0002-1031-5260), [Junling He](https://orcid.org/0009-0000-7588-3088), [Yujie Lu](https://orcid.org/0009-0008-9786-5946), [Zhongwei Cui](https://tongzhan.gznc.edu.cn/info/1015/3622.htm), [Wenting Li](https://www.gzcc.edu.cn/jsjyxxgcxy/contents/3205/3569.html), [Yongjun Zhang](https://orcid.org/0000-0002-7534-1219)✱ <br>
 > The Visual Computer 2024 <br>
-> Correspondence: ziyangchen2000@gmail.com; zyj6667@126.com✱ <br>
+> Contact us: ziyangchen2000@gmail.com; zyj6667@126.com✱ <br>
 > <a href="https://link.springer.com/article/10.1007/s00371-024-03334-1" target='_blank'><img src="https://img.shields.io/badge/Paper-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red"/></a>&nbsp;	
 
 ```bibtex
