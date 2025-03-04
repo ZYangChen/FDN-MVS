@@ -12,8 +12,8 @@ The official implementation of "Feature Distribution Normalization Network for M
   title={Feature distribution normalization network for multi-view stereo},
   author={Chen, Ziyang and Zhao, Yang and He, Junling and Lu, Yujie and Cui, Zhongwei and Li, Wenting and Zhang, Yongjun},
   journal={The Visual Computer},
-  pages={1--13},
-  year={2024},
+  pages={41(1): 409-421},
+  year={2025},
   publisher={Springer}
 }
 ```
